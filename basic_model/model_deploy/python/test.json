@@ -1,0 +1,18 @@
+"Auto" : [
+    {
+      
+      "Dormitory": "BPN",
+      "DorRating": "0.0008"
+    },
+    {
+        
+        "Dormitory": "DHAVA",
+        "DorRating": "0.0009"
+    },
+
+  ],
+
+
+   {"result" : "UserId": 123,"Dormitory": ["BPN","Dhava","Bankeaw"],"DorRating":["0.0009","0.0008","0.0007"] }
+
+   
